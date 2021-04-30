@@ -3,8 +3,11 @@
  
 ## 项目介绍
 本手册为对MongoDB源码的翻译，原文来自MongoDB官方源码https://github.com/mongodb/mongo/tree/master/src/mongo/db
+
 译者为MongoDB中文社区翻译小组成员，感谢各位译者朋友的悉心付出！
+
 关于MongoDB中文社区翻译小组，您可以从[本链接](https://mongoing.com/translators)了解他们，并欢迎愿意在贡献中学习的MongoDB爱好者朋友加入我们的队伍！
+
 
 ## MongoDB中文社区
 
